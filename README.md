@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 About Me<br><br>I’m currently working on<br>AI and full-stack software projects, alongside my role as a Research Assistant at Heriot-Watt University, focusing on applied machine learning and deep learning systems.<br><br>I’m looking to collaborate on<br>AI-driven applications, machine learning research projects, and full-stack web platforms where data and intelligent systems intersect.<br><br> I’m looking for help with<br>Optimising deep learning models, deploying ML systems at scale, and improving production-level MLOps workflows.<br><br> I’m currently learning<br>Advanced deep learning architectures, model optimisation techniques, and scalable backend development with modern web frameworks.<br><br>Ask me about<br>Machine learning, deep learning, Python, PyTorch, TensorFlow, full-stack development (React, Next.js, Node.js), and research-driven problem solving.<br><br> Fun fact<br>I enjoy bridging research and real-world software—turning experimental AI models into usable, production-ready applications.
 
 
